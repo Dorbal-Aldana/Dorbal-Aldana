@@ -31,8 +31,6 @@ I-am-Dorbal-Aldana@github
 <p>
     <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" title="C++"/>
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=go" height="40" alt="go" title="Go"/>
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" title="Java"/>
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" title="Python"/>
@@ -75,9 +73,6 @@ I-am-Dorbal-Aldana@github
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab" title="GitLab"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" title="Bash"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown" title="Markdown"/>
 </div>
 
 ### ⌨️ Editors & IDEs
